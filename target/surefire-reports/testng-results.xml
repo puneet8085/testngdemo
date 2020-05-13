@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="All Test Suite" duration-ms="41292" started-at="2020-05-13T21:33:18 IST" finished-at="2020-05-13T21:34:00 IST">
+    <groups>
+    </groups>
+    <test name="C:/testngdemo/src/test/java/logintest/java.java" duration-ms="41292" started-at="2020-05-13T21:33:18 IST" finished-at="2020-05-13T21:34:00 IST">
+      <class name="logintest.java">
+        <test-method status="PASS" signature="setup()[pri:0, instance:logintest.java@73ad2d6]" name="setup" duration-ms="41167" started-at="2020-05-13T21:33:19 IST" finished-at="2020-05-13T21:34:00 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+      </class> <!-- logintest.java -->
+    </test> <!-- C:/testngdemo/src/test/java/logintest/java.java -->
+  </suite> <!-- All Test Suite -->
+</testng-results>
